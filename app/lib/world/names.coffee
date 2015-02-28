@@ -612,6 +612,7 @@ module.exports.thangNames = thangNames =
   'Librarian': [
     'Agathe'
     'Agnes'
+    'Areon'
     'Hushbaum'
     'Mariam'
     'Matilda'
@@ -688,6 +689,7 @@ module.exports.thangNames = thangNames =
     'Gandalf'
     'Izzrts'
     'Kleene'
+    'Lavitha'
     'Pender'
     'Jezebel'
   ]
